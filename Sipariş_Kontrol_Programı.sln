@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sipariş_Kontrol_Programı", "Sipariş_Kontrol_Programı\Sipariş_Kontrol_Programı.csproj", "{91006AEE-F723-431B-86E7-1672658F382B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91006AEE-F723-431B-86E7-1672658F382B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91006AEE-F723-431B-86E7-1672658F382B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91006AEE-F723-431B-86E7-1672658F382B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91006AEE-F723-431B-86E7-1672658F382B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017B65C9-D905-4A24-B060-8C02835C3377}
+	EndGlobalSection
+EndGlobal
